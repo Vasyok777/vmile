@@ -1,0 +1,7 @@
+export * from './hero'
+export * from './neteasy'
+export * from './faq'
+export * from './video'
+export * from './disadvantages'
+export * from './comparisonTable'
+export * from './hostingers'
